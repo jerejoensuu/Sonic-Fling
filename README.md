@@ -8,7 +8,7 @@ A simple Sonic boss battle game
 git clone https://github.com/jerejoensuu/Sonic-Fling.git
 ```
 
-### Building
+## Building
 
 Run the following commands in terminal:
 
@@ -17,6 +17,6 @@ gradlew clean
 gradelw dist
 ```
 
-#### Running jar
+## Running jar
 
 Desktop `.jar` file, which can be downloaded separately, is located at `desktop/build/lib`.
